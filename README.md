@@ -73,5 +73,3 @@ has been connected during that flight, later disconnects remain visible.
   not be sent through MSP. Keep power connected until the update finishes.
   Normal MSP updates retain settings and pairings.
 
-See [tested cameras and model-specific limits](CAMERA_COMPATIBILITY.md) and
-[flashing instructions](FLASHING.md).
